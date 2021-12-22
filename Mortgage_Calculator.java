@@ -1,7 +1,7 @@
 import java.lang.Math;
 import java.text.NumberFormat;
 
-public class MortgageCalculator {
+public class Mortgage_Calculator {
     public static void main(String args[]){
         double Principal = 200000;
         double NumberOfPayments = 60;
